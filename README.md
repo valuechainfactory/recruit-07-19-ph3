@@ -34,7 +34,7 @@ Both the retailer and the warehouse can see pending and processed reorders.
 - Elixir/Phoenix
 - HTML/CSS/JS
 
-####Resources
+#### Resources
 
 - https://elixir-lang.org/getting-started/introduction.html
 - https://hexdocs.pm/ecto/Ecto.html
