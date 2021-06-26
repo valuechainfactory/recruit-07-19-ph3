@@ -46,7 +46,7 @@ Both the retailer and the warehouse can see pending and processed reorders.
 
 ### Hosted App Link
 
-    Paste your hosted application url here: __
+    Paste your hosted application url here:https://wonderful-stonebraker-3129b7.netlify.app
 
 ### Comments
 
