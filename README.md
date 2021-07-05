@@ -46,8 +46,19 @@ Both the retailer and the warehouse can see pending and processed reorders.
 
 ### Hosted App Link
 
-    Paste your hosted application url here: __
+    Paste your hosted application url here: __ http://petachrobotics.co.ke/kefis.php
 
 ### Comments
 
     Add your comments below:
+    username: admin password: admin
+
+link: http://petachrobotics.co.ke/kefis.php
+
+    I have loaded some data to it as stock
+    At the "sale"tab, i have add a button "add Sale" that will reduce the amount of stock.
+    The warehouse actor can see unprocessed orders at "Report"tab
+    I have added a dispatch button called "Purchases"that increases inventory of the stock
+    The store actor can view unprocessed and processed reorders
+    I have also added an "mpesa" pay button that pulls SIM STK directly to the phone number
+
