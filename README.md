@@ -31,6 +31,10 @@ Both the retailer and the warehouse can see pending and processed reorders.
 
 ### Languages allowed
 
+Use any programming language you're comfortable with.
+
+The following languages are what we currently use in our company and will be given special consideration:
+
 - Elixir/Phoenix
 - HTML/CSS/JS
 
